@@ -1,0 +1,10 @@
+<?php
+    //meu código vai aqui dentro
+    echo "<p>Bom dia!</p>";
+
+    $x = 2;
+    $y = 37.5 * $x;
+    $w = $y * 5;
+
+    echo "Seu saldo é R$" . $y . ". Seu limite de cheque especial é R$" . $w;
+?>
